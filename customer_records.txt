@@ -1,0 +1,197 @@
+================================================
+      NOVA FINANCE LTD - CUSTOMER RECORDS
+      Personal Loan & Credit Card Division
+================================================
+Exported By  : CRM System v4.2
+Export Date  : 15/04/2024
+Branch       : Coimbatore Regional Office
+Record Count : 10
+CONFIDENTIAL : Handle as per Data Policy v3.1
+================================================
+
+
+------------------------------------------------
+RECORD #001
+------------------------------------------------
+Customer Name   : Vishnu Raj
+Date of Birth   : 14/08/1990
+Email           : vishnu.raj@gmail.com
+Mobile          : 94821 09234
+Aadhaar         : 2341 8823 9012
+PAN             : ABCVR1234D
+Credit Card     : 4823-3291-9023-3820
+Card Type       : Visa Platinum
+Credit Limit    : Rs. 2,00,000
+Outstanding     : Rs. 23,450
+Account Opened  : 12/06/2019
+Last Transaction: 20/03/2024
+KYC Status      : Verified
+Loan Active     : Yes (Home Loan - Rs. 45,00,000)
+
+------------------------------------------------
+RECORD #002
+------------------------------------------------
+Customer Name   : Priya Anand
+Date of Birth   : 03/11/1992
+Email           : priya.anand92@yahoo.co.in
+Mobile          : 98201 23940
+Aadhaar         : 9823 4512 3098
+PAN             : DEFPA2345E
+Credit Card     : 5421-3920-1293-8821
+Card Type       : Mastercard Gold
+Credit Limit    : Rs. 1,50,000
+Outstanding     : Rs. 8,900
+Account Opened  : 07/02/2021
+Last Transaction: 22/03/2024
+KYC Status      : Verified
+Loan Active     : No
+
+------------------------------------------------
+RECORD #003
+------------------------------------------------
+Customer Name   : Arjun Kumar
+Date of Birth   : 17/01/1988
+Email           : arjun.kumar88@hotmail.com
+Mobile          : 97823 40021
+Aadhaar         : 3820 9123 4501
+PAN             : GHIAK3456F
+Credit Card     : 4129-3820-9012-3821
+Card Type       : Visa Classic
+Credit Limit    : Rs. 80,000
+Outstanding     : Rs. 0
+Account Opened  : 19/09/2018
+Last Transaction: 05/03/2024
+KYC Status      : Verified
+Loan Active     : Yes (Personal Loan - Rs. 3,00,000)
+
+------------------------------------------------
+RECORD #004
+------------------------------------------------
+Customer Name   : Fatima Raza
+Date of Birth   : 22/07/1990
+Email           : fatima.raza90@gmail.com
+Mobile          : 90123 45678
+Aadhaar         : 4512 3809 2341
+PAN             : IJKFR4567G
+Credit Card     : 5381-2920-3812-9023
+Card Type       : Mastercard Platinum
+Credit Limit    : Rs. 3,00,000
+Outstanding     : Rs. 41,200
+Account Opened  : 03/11/2020
+Last Transaction: 28/03/2024
+KYC Status      : Verified
+Loan Active     : No
+
+------------------------------------------------
+RECORD #005
+------------------------------------------------
+Customer Name   : Deepa Arvind
+Date of Birth   : 22/09/1983
+Email           : deepa.arvind@outlook.com
+Mobile          : 77823 40091
+Aadhaar         : 5623 0912 3840
+PAN             : LMNDA5678H
+Credit Card     : 4716-3820-9123-4021
+Card Type       : Visa Gold
+Credit Limit    : Rs. 1,20,000
+Outstanding     : Rs. 12,300
+Account Opened  : 25/03/2017
+Last Transaction: 19/03/2024
+KYC Status      : Pending Re-verification
+Loan Active     : Yes (Car Loan - Rs. 8,50,000)
+
+------------------------------------------------
+RECORD #006
+------------------------------------------------
+Customer Name   : Harpreet Kaur
+Date of Birth   : 01/01/1983
+Email           : harpreet.kaur83@gmail.com
+Mobile          : 98712 34560
+Aadhaar         : 7823 4091 2350
+PAN             : OPQHK6789I
+Credit Card     : 5500-3820-9123-4501
+Card Type       : Mastercard World
+Credit Limit    : Rs. 5,00,000
+Outstanding     : Rs. 89,400
+Account Opened  : 14/07/2016
+Last Transaction: 31/03/2024
+KYC Status      : Verified
+Loan Active     : No
+
+------------------------------------------------
+RECORD #007
+------------------------------------------------
+Customer Name   : Kavitha Arvind
+Date of Birth   : 15/04/1988
+Email           : kavitha.arvind@icloud.com
+Mobile          : 77889 90011
+Aadhaar         : 8234 5019 2340
+PAN             : RSTKV7890J
+Credit Card     : 4532-9120-3841-2390
+Card Type       : Visa Signature
+Credit Limit    : Rs. 4,00,000
+Outstanding     : Rs. 56,780
+Account Opened  : 08/01/2020
+Last Transaction: 25/03/2024
+KYC Status      : Verified
+Loan Active     : Yes (Education Loan - Rs. 12,00,000)
+
+------------------------------------------------
+RECORD #008
+------------------------------------------------
+Customer Name   : Ananya Sen
+Date of Birth   : 28/02/1995
+Email           : ananya.sen95@rediffmail.com
+Mobile          : 98760 01234
+Aadhaar         : 9012 3840 5612
+PAN             : UVWAS8901K
+Credit Card     : 4916-2039-1238-4021
+Card Type       : Visa Classic
+Credit Limit    : Rs. 60,000
+Outstanding     : Rs. 4,500
+Account Opened  : 30/06/2022
+Last Transaction: 14/03/2024
+KYC Status      : Verified
+Loan Active     : No
+
+------------------------------------------------
+RECORD #009
+------------------------------------------------
+Customer Name   : Ritu Chandra
+Date of Birth   : 05/05/1985
+Email           : ritu.chandra2000@gmail.com
+Mobile          : 96500 01234
+Aadhaar         : 1239 4082 3015
+PAN             : XYZRC9012L
+Credit Card     : 5105-3820-9124-3091
+Card Type       : Mastercard Standard
+Credit Limit    : Rs. 1,00,000
+Outstanding     : Rs. 18,750
+Account Opened  : 11/12/2021
+Last Transaction: 07/03/2024
+KYC Status      : Verified
+Loan Active     : No
+
+------------------------------------------------
+RECORD #010
+------------------------------------------------
+Customer Name   : Joseph Kurian
+Date of Birth   : 23/04/1992
+Email           : joseph.kurian92@gmail.com
+Mobile          : 97451 23456
+Aadhaar         : 2390 1238 4015
+PAN             : ABCJK0123M
+Credit Card     : 4024-0071-9823-4012
+Card Type       : Visa Platinum
+Credit Limit    : Rs. 2,50,000
+Outstanding     : Rs. 31,100
+Account Opened  : 17/08/2019
+Last Transaction: 29/03/2024
+KYC Status      : Documents Awaited
+Loan Active     : Yes (Personal Loan - Rs. 5,00,000)
+
+================================================
+END OF RECORDS | Total: 10 | Nova Finance Ltd
+This document is confidential. Unauthorised sharing
+is a violation of IT Policy 3.1 and applicable law.
+================================================

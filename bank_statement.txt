@@ -1,0 +1,86 @@
+================================================
+         HDFC BANK - ACCOUNT STATEMENT
+================================================
+Account Holder : Vishnu Raj
+Account Number : 5231 8823 9012
+Account Type   : Savings Account
+IFSC Code      : HDFC0001234
+Branch         : Anna Nagar, Chennai
+Statement For  : 01/03/2024 to 31/03/2024
+Generated On   : 01/04/2024
+Email on File  : vishnu.raj@gmail.com
+Mobile on File : 94821 09234
+Aadhaar Linked : 2341 8823 9012
+PAN on File    : ABCVR1234D
+================================================
+
+Opening Balance: Rs. 42,300.00
+
+------------------------------------------------
+DATE       | DESCRIPTION                   | DEBIT (Rs.)  | CREDIT (Rs.) | BALANCE (Rs.)
+-----------|-------------------------------|--------------|--------------|---------------
+02/03/2024 | UPI - Received from           |              | 12,000.00    | 54,300.00
+           | Arjun Kumar                   |              |              |
+           | Ref: UPI/2403021/938821       |              |              |
+04/03/2024 | NEFT - Salary Credit          |              | 65,000.00    | 1,19,300.00
+           | Employer: TechSoft Pvt Ltd    |              |              |
+           | Ref: NEFT/20240304/3829182    |              |              |
+05/03/2024 | ATM Withdrawal                | 10,000.00    |              | 1,09,300.00
+           | ATM ID: HDFC/CHN/00234        |              |              |
+07/03/2024 | CC Bill Payment - HDFC Bank   | 23,450.00    |              | 85,850.00
+           | Card: 4823-3291-9023-3820     |              |              |
+           | Ref: CCPAY/20240307/11823     |              |              |
+09/03/2024 | UPI - Swiggy Order            | 480.00       |              | 85,370.00
+           | UPI Ref: 3029182938           |              |              |
+10/03/2024 | IMPS - Sent to Priya Anand   | 5,000.00     |              | 80,370.00
+           | Mobile: 98201 23940           |              |              |
+           | Ref: IMPS/2403101/8823       |              |              |
+12/03/2024 | Amazon Pay - Purchase         | 2,999.00     |              | 77,371.00
+           | Order: AMZ-2024031298231      |              |              |
+14/03/2024 | LIC Premium - Auto Debit      | 4,200.00     |              | 73,171.00
+           | Policy: LIC/002938821         |              |              |
+15/03/2024 | UPI - Received from           |              | 3,500.00     | 76,671.00
+           | Deepa Arvind                  |              |              |
+           | Ref: UPI/2403152/293810       |              |              |
+17/03/2024 | Electricity Bill - TNEB       | 1,840.00     |              | 74,831.00
+           | Consumer No: 2938821034       |              |              |
+           | Ref: BBPS/20240317/38291      |              |              |
+19/03/2024 | SIP - Axis Mutual Fund        | 5,000.00     |              | 69,831.00
+           | Folio: AXS/MF/2938821         |              |              |
+20/03/2024 | POS - Reliance Retail         | 3,240.00     |              | 66,591.00
+           | Card: 4823-3291-9023-3820     |              |              |
+           | TXN ID: POS/2403201/129381    |              |              |
+22/03/2024 | NEFT - Rent Transfer          | 18,000.00    |              | 48,591.00
+           | To: Kavitha Arvind            |              |              |
+           | Ref: NEFT/20240322/3820911    |              |              |
+25/03/2024 | UPI - PhonePe / Fuel          | 2,100.00     |              | 46,491.00
+           | Ref: UPI/2403252/019283       |              |              |
+27/03/2024 | Google Play - Subscription    | 199.00       |              | 46,292.00
+           | Ref: GPY/20240327/82912       |              |              |
+28/03/2024 | Interest Credit - Monthly     |              | 312.00       | 46,604.00
+           | Ref: INT/MAR/2024/9023        |              |              |
+30/03/2024 | NACH - Home Loan EMI          | 22,300.00    |              | 24,304.00
+           | Loan A/C: HL/2938/0023821     |              |              |
+           | Ref: NACH/20240330/029381     |              |              |
+------------------------------------------------
+
+Closing Balance : Rs. 24,304.00
+Total Credits   : Rs. 80,812.00
+Total Debits    : Rs. 98,808.00
+
+================================================
+CREDIT CARD SUMMARY (Linked Card)
+Card Number     : 4823-3291-9023-3820
+Card Type       : HDFC Regalia Credit Card
+Billing Cycle   : 01/03/2024 to 31/03/2024
+Credit Limit    : Rs. 2,00,000.00
+Amount Used     : Rs. 23,450.00
+Min. Due        : Rs. 1,175.00
+Payment Due Date: 15/04/2024
+================================================
+
+IMPORTANT: If you notice any unauthorised transactions, please call
+1800-202-6161 or email: support@hdfcbank.com within 7 days.
+
+This is a system-generated statement. No signature required.
+================================================
